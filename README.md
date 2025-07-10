@@ -1,1 +1,3 @@
-# ProgrammingContestDSA
+# Programming Contest Data Structure and Algorithm by Md. Mahbubul Hasan
+The book "Programming Contest Data Structure and Algorithm" is written by Md. Mahbubul Hasan(cover given below). This repository contains solutions to the task given in the book...
+![a3a2da14-aa4f-4172-8619-1dc61a1a2a13](https://github.com/user-attachments/assets/15c443d3-a7a2-4c7a-86f4-fdb2471642da)
