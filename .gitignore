@@ -1,0 +1,14 @@
+# Ignore all extension-less files
+*
+!*.*
+!*/git 
+
+# Ignore ide files
+.vscode/
+.idea/
+
+# Ignore executables and object files
+*.out
+*.exe
+*.o
+*.so
